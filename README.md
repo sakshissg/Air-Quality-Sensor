@@ -13,14 +13,23 @@ Circuit Diagram
 This sensor has 4 pins:
 
 •	5V: Module power supply – 5 V
+
 •	GND: Ground
+
 •	DOUT: Digital output
+
 •	AOUT: Analog output
 
-Pin	Description
+
+<h3>Pin	Description</h3>
+
 VCC	Positive power supply pin that powers up the sensor module.
+
 GND	Reference potential pin.
+
 AO	Analog output pin. It generates a signal proportional to the concentration of gas vapors coming in contact with the sensor.
+
 DO	Digital Output pin. It also produces a digital signal whose limit can be set using the in-built potentiometer.
+
 
 ![image](https://github.com/sakshissg/Air-Quality-Sensor/assets/108525769/42cda0c3-cca5-4b6c-b7fd-be1e62868ce8)
